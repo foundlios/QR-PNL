@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".activity.MenuActivity">
+
+
+<!--    <com.ismaeldivita.chipnavigation.ChipNavigationBar-->
+<!--        android:id="@+id/bottom_navigation"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="72dp"-->
+<!--        android:background="@drawable/rounded"-->
+<!--        android:elevation="16dp"-->
+<!--        app:cnb_menuResource="@menu/navmenu"-->
+<!--        android:padding="8dp"-->
+<!--        android:layout_alignParentBottom="true"/>-->
+
+
+<!--    />-->
+
+<!--    <com.luseen.spacenavigation.SpaceNavigationView-->
+<!--        android:id="@+id/space"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_gravity="bottom"-->
+<!--        android:gravity="center"-->
+<!--        app:active_centre_button_icon_color="#F57F17"-->
+<!--        app:active_item_color="#FF6F00"-->
+<!--        app:centre_button_color="@color/colorPrimary"-->
+<!--        app:centre_button_icon="@drawable/ic_filter_center_focus_black_24dp"-->
+<!--        app:inactive_centre_button_icon_color="@color/white"-->
+<!--        app:space_background_color="@color/white"-->
+<!--        app:space_item_icon_only_size="24dp"-->
+<!--        app:space_item_icon_size="24dp"-->
+
+
+<!--        />-->
+
+
+</RelativeLayout>

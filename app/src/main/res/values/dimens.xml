@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="card_padding">60dp</dimen>
+
+    <dimen name="design_bottom_navigation_activer_text_size" tools:override="true">12sp</dimen>
+</resources>

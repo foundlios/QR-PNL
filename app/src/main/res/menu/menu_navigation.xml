@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home_outline"
+       />
+
+    <item
+        android:id="@+id/navigation_book"
+        android:icon="@drawable/ic_book_outline"
+        android:title="Pelajaran"/>
+
+    <item
+        android:id="@+id/navigation_focus"
+        android:icon="@drawable/ic_filter_center_focus_black_24dp"
+        android:title="Absen"/>
+
+
+
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_settings_2_outline"
+        android:title="Setting"/>
+
+</menu>
+
