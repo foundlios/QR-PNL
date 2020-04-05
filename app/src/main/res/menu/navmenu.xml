@@ -13,7 +13,7 @@
         <item
             android:id="@+id/navigation_focus"
             android:icon="@drawable/ic_filter_center_focus_black_24dp"
-            android:title="@string/title_focus"/>
+            android:title="Hallo_BANG"/>
 
         <item
             android:id="@+id/navigation_news"
